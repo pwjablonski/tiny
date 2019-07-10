@@ -1,0 +1,2 @@
+# tiny
+A tiny package
