@@ -1,0 +1,12 @@
+{
+  "name": "@pwjablonski/tiny",
+  "version": "1.0.0",
+  "description": "a tiny package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "pwjablonski",
+  "license": "MIT",
+  "repository": "pwjablonski/tiny"
+}
